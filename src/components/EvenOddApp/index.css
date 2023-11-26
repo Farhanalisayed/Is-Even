@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.the-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  background-size: cover;
+  height: 100vh;
+}
+h1 {
+  color: black;
+  font-size: 30px;
+}
+.note {
+  font-size: 15px;
+  color: #ff6e7f;
+}
+.para {
+font-size: 25px;
+  color: #ff6e7f;
+}
+.but{
+    color:#ff6e7f;
+    border:0px solid;
+    border-radius: 10px;
+
+}
